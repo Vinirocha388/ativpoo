@@ -1,13 +1,12 @@
- 
- Livro
+
+//Livro
  
  
  const livro = { 
-/    Titulo: '"Breve respostas para grandes questões" ',
-     Autor: ' Stephen Hawking',
-    Ano: ' 16/10/2018',
+    Titulo: '"Breve respostas para grandes questões" ',
+    Autor: ' Stephen Hawking',
+    Ano: ' 16/10/2018'
  };
-
  console.log('O livro: ' + livro.Titulo + 'De ' +  livro.Autor + ' foi lançado em ' + livro.Ano);
 
 
@@ -16,8 +15,8 @@
 
 const filme = {  
     titulo: '"A teoria de tudo"',
-     diretor: 'James Marsh',
-     anoLancamento: '29/01/2015',
+    diretor: 'James Marsh',
+    anoLancamento: '29/01/2015'
  };
  console.log(filme);
 
@@ -26,8 +25,8 @@ const filme = {
 
 
  const musica = {
-     titulo: 'Con te Partirò',
-     artista: 'Andrea Bocelli',
+    titulo: 'Con te Partirò',
+    artista: 'Andrea Bocelli',
     album: 'Bocelli'
 
  };
@@ -40,7 +39,7 @@ const filme = {
  const restaurante = {   
      nome: 'Vovó Luiza Pizzaria',
      tipoCozinha: 'Italiana',
-     local: 'Valinhos-SP, próximo ao CLT',
+     local: 'Valinhos-SP, próximo ao CLT'
  };
  console.log(restaurante);
 
@@ -51,9 +50,8 @@ const filme = {
  const Jogo = {  
      titulo: '8 Ball Pool',
      desenvolvedor: 'Miniclip SA',
-     plataforma: 'IOS,Android e Navegador web',
+     plataforma: 'IOS,Android e Navegador web'
  };
-
  console.log(Jogo);
 
 
@@ -62,7 +60,7 @@ const filme = {
 
  const smartphone = {    
     marca: 'ASUS',
-    modelo: 'Zenfone 8'
-    anoLancamento: 'Maio de 2021',
+    modelo: 'Zenfone 8',
+    anoLancamento: 'Maio de 2021'
 };
-console.log(smartphone)
+console.log(smartphone);
