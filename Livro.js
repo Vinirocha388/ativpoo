@@ -1,11 +1,11 @@
  
- Livro
+ //Livro
  
  
  const livro = { 
-/    Titulo: '"Breve respostas para grandes questões" ',
+     Titulo: '"Breve respostas para grandes questões" ',
      Autor: ' Stephen Hawking',
-    Ano: ' 16/10/2018',
+     Ano: ' 16/10/2018',
  };
 
  console.log('O livro: ' + livro.Titulo + 'De ' +  livro.Autor + ' foi lançado em ' + livro.Ano);
@@ -62,7 +62,16 @@ const filme = {
 
  const smartphone = {    
     marca: 'ASUS',
-    modelo: 'Zenfone 8'
+    modelo: 'Zenfone 8',
     anoLancamento: 'Maio de 2021',
 };
-console.log(smartphone)
+console.log(smartphone);
+
+
+
+
+
+
+
+
+
