@@ -25,9 +25,9 @@ const filme = {
 
 
  const musica = {
-    titulo: 'Con te Partirò',
-    artista: 'Andrea Bocelli',
-    album: 'Bocelli'
+    titulo: 'Liberdade',
+    artista: 'Guilherme de Sá',
+    album: 'Homemade'
 
  };
  console.log(musica);
